@@ -1,0 +1,126 @@
+
+body {
+    font-family: sans-serif;
+    margin-left: 180px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 180px;
+}
+header {
+    background-color: orangered;
+    text-align: center;
+}
+h2 {
+    background-color: orangered;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px ;
+}
+.infa {
+    font-size: 20px;
+}
+
+h3 {
+    background-color: orangered;
+    padding: 10px;
+    text-align: center;
+    font-size: 23px ;
+}
+.achivment {
+    font-size: 23px;
+    text-align: center;
+    
+}
+.achivment-h1 {
+    font-size: 26px;
+    text-align: center;
+    margin: -18px;
+    border-top: 3px dashed black;
+    border-bottom: 3px dashed black;
+}
+.infa-minii {
+    margin-bottom: 100px;
+    font-size: 18px;
+}
+.infa-miniii {
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+.ppp {
+    font-size: 20px;
+    padding: 20px;
+}
+footer {
+    background-color: orangered;
+}
+.infaa {
+    font-size: 20px;
+    margin-bottom: 185px;
+}
+.infaaa {
+    font-size: 20px;
+    margin-bottom: 225px;
+}
+.infa-mini {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.infaaaa {
+    font-size: 20px;
+    margin-bottom: 140px;
+}
+.infaaaaa {
+    font-size: 20px;
+    margin-bottom: 250px;
+}
+.infa {
+    font-size: 20px;
+}
+.infa-miniiii {
+    font-size: 18px;
+    margin-bottom: 250px;
+}
+.infa-miniiiii {
+    font-size: 18px;
+    margin-bottom: 150px;
+}
+.infaaaaaa {
+    margin-bottom: 300px;
+    font-size: 20px;
+}
+.interes {
+    font-size: 10px;
+    border: solid 2px black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 5px;
+    padding:15px;
+
+}
+.interes:hover {
+    border: solid 4px rgb(0, 0, 0) ;
+    border-radius: 19px;
+    padding: 18px;
+    transition: 0.7s;
+    font-size: 19px;
+}
+
+html {
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/861/167/703/half-life-half-life-2-video-games-combine-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.inffa {
+    margin-bottom:100px ;
+    font-size: 20px;
+}
+.infffa {
+    margin-bottom:140px ;
+    font-size: 20px;
+}
